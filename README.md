@@ -1,3 +1,4 @@
+
 # 🎬 Movie Application
 
 A simple API-powered application that fetches movie and implements trending search logic based on user activity.
@@ -20,22 +21,25 @@ A simple API-powered application that fetches movie and implements trending sear
 
 ## ⚡ Installation & Setup
 
-### *1️⃣ Clone Repository*
+### **1️⃣ Clone Repository**
 
-sh
-git clone <https://github.com/Dimmlul/movie-app-react-appwrite.git>
+```sh
+git clone https://github.com/Dimmlul/movie-app-react-appwrite.git
 cd Talkatry-Tailwind
+```
 
-### *2️⃣ Install Dependencies*
+### **2️⃣ Install Dependencies**
 
-sh
+```sh
 npm install
+```
 
-### *3️⃣ Run the Application*
+### **3️⃣ Run the Application**
 
-sh
+```sh
 npm run build
+```
 
-Open in your browser: *[http://localhost:5173](http://localhost:5173)*
+Open in your browser: **[http://localhost:5173](http://localhost:5173)**
 
 ---
