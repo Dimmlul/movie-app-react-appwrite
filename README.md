@@ -25,7 +25,7 @@ Display popular and trending movies dynamically.
 
 ```sh
 git clone https://github.com/Dimmlul/movie-app-react-appwrite.git
-cd Talkatry-Tailwind
+cd movie-app-react-appwrite
 ```
 
 ### **2️⃣ Install Dependencies**
