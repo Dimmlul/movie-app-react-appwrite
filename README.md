@@ -7,11 +7,11 @@ A simple API-powered application that fetches movie and implements trending sear
 
 ## ✨ Features
 
--Fetch movie data from an API (e.g., TMDB).
+Fetch movie data from an API (e.g., TMDB).
 
--Track user searches to determine trending movies.
+Track user searches to determine trending movies.
 
--Display popular and trending movies dynamically.
+Display popular and trending movies dynamically.
 
 ---
 
@@ -37,7 +37,7 @@ npm install
 ### **3️⃣ Run the Application**
 
 ```sh
-npm run build
+npm run dev
 ```
 
 Open in your browser: **[http://localhost:5173](http://localhost:5173)**
